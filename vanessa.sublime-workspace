@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synta",
+				"Set Syntax: Sass"
+			],
+			[
+				" install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"npm insatall",
+			"npm i",
+			"exit()",
+			"stop()",
+			"--version",
+			"help",
+			"--help",
+			"exit()",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/html_templates/dev/vanessa/app/css/app.min.css",
+		"/D/html_templates/dev/vanessa/vanessa.sublime-project",
+		"/D/html_templates/dev/vanessa/app/styles/sass/main.sass",
+		"/D/html_templates/dev/vanessa/app/styles/sass/_config.sass",
+		"/D/html_templates/dev/vanessa/app/css/vanessa_css/font-awesome.min.css",
+		"/D/html_templates/dev/vanessa/app/js/app.js",
+		"/D/html_templates/dev/vanessa/app/css/vanessa_css/style.css",
+		"/D/html_templates/dev/vanessa/app/index2.html",
+		"/D/html_templates/dev/vanessa/app/index-video.html",
+		"/D/html_templates/dev/vanessa/gulpfile.js",
+		"/D/html_templates/dev/vanessa/node_modules/autoprefixer/lib/browsers.js",
+		"/D/html_templates/dev/vanessa/app/css/css/style.css",
+		"/C/Users/yakuh/AppData/Roaming/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"masthead.jpg",
+			"vanessa_js/js/",
+			"js/js/",
+			"css/img/bg",
+			"css/img/",
+			"img/",
+			"js/",
+			"assets/img/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"js/vanessa_js/",
+			"vanessa_js/js/",
+			"images/img/",
+			"js/js/",
+			"images/img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 91.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
