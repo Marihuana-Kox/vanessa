@@ -2,8 +2,8 @@
 @use 'sass:color'
 
 @import config
-@import media
 @import 'blocks/**/*'
+@import media
 
 body
 	font-size: 2em
@@ -11,7 +11,11 @@ body
 	p
 		margin-top: 15px
 
+// h1
+// 	font-family: doperstyleg, sans-serif
+
 h1,h2,h3,h4,h5,h6
+	font-family: poetsen-one, sans-serif 
 	margin-bottom: 15px
 	margin-top: 15px
 
@@ -35,7 +39,6 @@ h4
 
 .servise-view-top-page
 	position: relative
-	background: $accent
 	margin-top: -7rem
 	color: #f7f7f7
 	:not(:first-child)
@@ -46,6 +49,7 @@ h4
 		line-height: 1
 
 .border-class
+	background: $accent
 	padding: 0
 	cursor: pointer
 	background-origin: padding-box
@@ -90,3 +94,6 @@ h4
 		margin-top: 6px
 .align-items-end
 	align-items: flex-end
+
+
+	
