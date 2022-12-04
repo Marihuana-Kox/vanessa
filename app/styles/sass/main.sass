@@ -2,6 +2,7 @@
 @use 'sass:color'
 
 @import config
+@import media
 @import 'blocks/**/*'
 
 body
@@ -9,8 +10,11 @@ body
 	line-height: 1.6em
 	p
 		margin-top: 15px
+
 h1,h2,h3,h4,h5,h6
 	margin-bottom: 15px
+	margin-top: 15px
+
 h1,h4
 	color: #f7f7f7
 h1
@@ -67,7 +71,7 @@ h4
 	padding: 0
 	
 .about-block
-	text-align: justify 
+	text-align: left 
 	span
 		font-style: italic
 		i
@@ -86,5 +90,3 @@ h4
 		margin-top: 6px
 .align-items-end
 	align-items: flex-end
-	
-@import animate.custom
