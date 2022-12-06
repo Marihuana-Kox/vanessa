@@ -22,7 +22,8 @@ h1,h2,h3,h4,h5,h6
 h1,h4
 	color: #f7f7f7
 h1
-	font-size: 5rem	
+	font-family: d_kallisto, sans-serif
+	font-size: 4.5rem	
 h2
 	font-size: 3rem
 h3
@@ -35,7 +36,7 @@ h4
 		background-color: rgba(0,0,0,0.2)
 
 .masthead
-	background: url("../images/img/bg/scale_1280.jpg") no-repeat 100% 100%
+	background: url("../images/img/bg/scale_1280_shadow.jpg") no-repeat 100% 100%
 
 .servise-view-top-page
 	position: relative
@@ -95,5 +96,14 @@ h4
 .align-items-end
 	align-items: flex-end
 
+.column-padding
+	padding-top: 15px
+	padding-bottom: 15px
 
-	
+.section-block
+	div:nth-child(odd)	
+		border-top: 1px solid $accent
+	div:nth-child(even)	
+		border-bottom: 1px solid $accent
+		border-left: 1px solid $accent
+		border-right: 1px solid $accent

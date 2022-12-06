@@ -43,6 +43,7 @@
 		"webpack-stream": "^7.0.0"
 	},
 	"dependencies": {
-		"@flaticon/flaticon-uicons": "^1.7.0"
+		"@flaticon/flaticon-uicons": "^1.7.0",
+		"jquery": "^3.6.1"
 	}
 }
